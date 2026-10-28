@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_add_event">Añadir evento</string>
+    <string name="title_query">Consultar y modificar</string>
+    <string name="title_calendar">Calendario</string>
+    <string name="title_backup">Respaldo</string>
+    <string name="title_restore">Restaurar datos</string>
+    <string name="title_settings">Configuración</string>
+    <string name="title_about">Acerca de</string>
+    <string name="title_exit">Salir</string>
+
+    <string name="exit_dialog_title">Salir</string>
+    <string name="exit_dialog_message">¿Seguro que quieres cerrar la aplicación?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

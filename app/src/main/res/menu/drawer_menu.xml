@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Menú hamburguesa: las 8 opciones del PDF, en el mismo orden.
+     IMPORTANTE: cada android:id es igual al id del destino en nav_graph.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_add_event" android:icon="@drawable/ic_add" android:title="@string/title_add_event" />
+        <item android:id="@+id/nav_query" android:icon="@drawable/ic_search" android:title="@string/title_query" />
+        <item android:id="@+id/nav_calendar" android:icon="@drawable/ic_calendar" android:title="@string/title_calendar" />
+        <item android:id="@+id/nav_backup" android:icon="@drawable/ic_backup" android:title="@string/title_backup" />
+        <item android:id="@+id/nav_restore" android:icon="@drawable/ic_restore" android:title="@string/title_restore" />
+        <item android:id="@+id/nav_settings" android:icon="@drawable/ic_settings" android:title="@string/title_settings" />
+        <item android:id="@+id/nav_about" android:icon="@drawable/ic_info" android:title="@string/title_about" />
+        <item android:id="@+id/nav_exit" android:icon="@drawable/ic_exit" android:title="@string/title_exit" />
+    </group>
+</menu>
